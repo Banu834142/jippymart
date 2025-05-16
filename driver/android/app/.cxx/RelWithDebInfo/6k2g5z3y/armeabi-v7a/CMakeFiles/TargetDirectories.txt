@@ -1,0 +1,2 @@
+/Users/mayankmodi/Documents/Project/github/foodie/driver/android/app/.cxx/RelWithDebInfo/6k2g5z3y/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mayankmodi/Documents/Project/github/foodie/driver/android/app/.cxx/RelWithDebInfo/6k2g5z3y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/mayankmodi/Documents/Project/github/foodie/restaurant/build/app/intermediates/cxx/RelWithDebInfo/v3f5w5g4/obj/armeabi-v7a

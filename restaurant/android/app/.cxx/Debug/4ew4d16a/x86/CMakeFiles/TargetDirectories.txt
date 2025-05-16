@@ -1,0 +1,2 @@
+/Users/rushabhpatel/Documents/GitHub/foodie/restaurant/android/app/.cxx/Debug/4ew4d16a/x86/CMakeFiles/edit_cache.dir
+/Users/rushabhpatel/Documents/GitHub/foodie/restaurant/android/app/.cxx/Debug/4ew4d16a/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Users/rushabhpatel/Documents/GitHub/foodie/driver/android/app/.cxx/RelWithDebInfo/5m294o48/x86_64/CMakeFiles/edit_cache.dir
+/Users/rushabhpatel/Documents/GitHub/foodie/driver/android/app/.cxx/RelWithDebInfo/5m294o48/x86_64/CMakeFiles/rebuild_cache.dir
